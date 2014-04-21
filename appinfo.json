@@ -1,0 +1,17 @@
+{
+  "uuid": "43ccb7e6-b1ca-411a-80af-06d2d5dff783",
+  "shortName": "BlueFlyVario_Pebble",
+  "longName": "BlueFlyVario_Pebble",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
