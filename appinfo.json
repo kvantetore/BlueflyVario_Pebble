@@ -12,6 +12,12 @@
     "dummy": 0
   },
   "resources": {
-    "media": []
+    "media": [
+      {
+        "type": "font",
+        "name": "FONT_UNICONS_30",
+        "file": "fonts/unicons_30.ttf"
+      }
+    ]
   }
 }
